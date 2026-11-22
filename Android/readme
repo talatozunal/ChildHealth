@@ -1,1 +1,39 @@
 
+# Çocuk Kartları (ChildSave)
+
+**Çocuk Kartları**, çocukların yaptığı çizimleri, boyamaları ve sanat etkinliklerini kaybolmadan veya yıpranmadan dijital ortamda güvenle saklamanızı sağlayan modern bir Android uygulamasıdır. Ebeveynlerin çocuklarının gelişim sürecini yaşa ve tarihe göre kolayca arşivlemesi için tasarlanmıştır.
+
+---
+
+## ✨ Öne Çıkan Özellikler
+
+* **Dijital Sanat Arşivi:** Çocuklarınızın çizimlerini ve el işi etkinliklerini düzenli kartlar halinde dijitalleştirip saklayın.
+* **Tarih ve Yaş Takibi:** Her çalışma için üretim tarihini kaydederek çocuğunuzun sanatsal gelişimini kronolojik olarak takip edin.
+* **Hızlı Paylaşım:** Sakladığınız çizimleri ve anı kartlarını aile bireyleriyle tek dokunuşla paylaşın.
+* **Modern ve Akıcı Arayüz:** Jetpack Compose ve Material 3 tasarım diliyle geliştirilmiş, göz yormayan ve kolay kullanımlı arayüz.
+* **Tamamen Yerel ve Güvenli:** Verileriniz cihazınızda saklanır; harici sunuculara yüklenmez.
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+* **Dil:** Kotlin
+* **Arayüz (UI):** Jetpack Compose & Material 3
+* **Mimari & Bileşenler:** AndroidX Lifecycle, ViewModel, FileProvider
+
+---
+
+## 📥 İndirme ve Kurulum (Android)
+
+Uygulamanın en güncel kurulum dosyasını (`.apk`) deponun **Releases** sekmesinden veya ilgili klasörden indirebilirsiniz.
+
+**Kurulum Adımları:**
+1. `.apk` dosyasını Android cihazınıza indirin.
+2. Cihaz ayarlarından **"Bilinmeyen Kaynaklardan Uygulama Yükleme"** iznini onaylayın.
+3. İndirilen dosyaya dokunarak kurulumu tamamlayın.
+
+---
+
+## 📄 Lisans
+
+Bu proje açık kaynak topluluğu için geliştirilmiştir. Detaylar için depodaki `LICENSE` dosyasına göz atabilirsiniz.
